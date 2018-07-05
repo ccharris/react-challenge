@@ -6,6 +6,7 @@ const Foot = styled.div`
     height: 30px;
     color: #F2F7F2;
     padding-top: 10px;
+    margin-top: 10px;
 `
 
 const Footer = () => {

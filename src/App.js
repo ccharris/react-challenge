@@ -15,6 +15,7 @@ class App extends Component {
       isUser: false
     }
   }
+  
   changeUserStatus = () => {
     this.setState({ isUser: !this.state.isUser })
   }
